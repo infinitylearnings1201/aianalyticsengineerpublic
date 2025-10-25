@@ -1,0 +1,20 @@
+2025-10-12 04:33:01,138 - INFO - Pipeline started
+2025-10-12 04:33:01,138 - WARNING - API took longer than expected
+2025-10-12 04:33:01,139 - ERROR - File missing in input folder
+2025-10-12 04:34:10,922 - INFO - Python Server ready to receive messages
+2025-10-12 04:34:10,923 - INFO - Received command c on object id p0
+2025-10-12 04:34:10,936 - INFO -  Pipeline started.
+2025-10-12 04:34:11,017 - INFO -  Successfully fetched API data.
+2025-10-12 04:34:11,022 - INFO -  Loaded 10 records.
+2025-10-12 04:34:11,270 - INFO -  Data successfully written to output.csv.
+2025-10-12 04:34:11,270 - INFO -  Pipeline completed successfully.
+2025-10-12 04:35:20,494 - INFO - Python Server ready to receive messages
+2025-10-12 04:35:20,501 - INFO - Received command c on object id p0
+2025-10-12 04:35:20,515 - INFO -  Pipeline started.
+2025-10-12 04:35:20,575 - INFO -  Successfully fetched API data.
+2025-10-12 04:35:20,578 - INFO -  Loaded 10 records.
+2025-10-12 04:35:21,687 - INFO -  Data successfully written to output.csv.
+2025-10-12 04:35:21,688 - INFO -  Pipeline completed successfully.
+2025-10-12 04:36:28,274 - INFO - Python Server ready to receive messages
+2025-10-12 04:36:28,274 - INFO - Received command c on object id p0
+2025-10-12 04:36:28,394 - INFO - Logging to both console and file!

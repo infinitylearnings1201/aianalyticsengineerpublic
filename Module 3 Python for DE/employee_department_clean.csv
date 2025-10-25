@@ -1,0 +1,9 @@
+emp_id,emp_name,department_id,salary,hire_date,department_name,location
+101,John Doe,10,70000,2020-06-10,Engineering,Mumbai
+102,Priya Shah,20,80000,2019-03-15,Finance,Delhi
+103,Akash Wadhankar,30,95000,2018-11-22,HR,Pune
+104,Riya Patel,20,72000,2021-01-05,Finance,Delhi
+105,David Kumar,40,65000,2022-08-12,Marketing,Bangalore
+106,Sneha Iyer,10,77000,2019-12-19,Engineering,Mumbai
+107,Rohit Singh,50,90000,2020-05-02,Operations,Hyderabad
+108,Kavya Mehta,30,85000,2017-07-23,HR,Pune

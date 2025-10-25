@@ -1,0 +1,34 @@
+Python for Data Engineers — 21-Day Series (Freshers Edition, No PySpark)
+
+Module 1: Foundations
+
+        Day 1. Why Python for Data Engineering? (ecosystem, why DEs must know Python)
+        Day 2. Variables & Data Types (int, float, str, list, tuple, dict, set)
+        Day 3. Operators & Expressions (arithmetic, comparison, logical, assignment)
+        Day 4. Control Flow — if/else & conditions
+        Day 5. Loops in Python — for & while with examples
+        Day 6. Functions in Python — reusable logic, arguments, return
+        Day 7. Advanced Functions — lambda, args/kwargs, modular programming
+
+Module 2: Working with Data
+
+        Day 8. Strings in Python — methods, formatting, f-strings
+        Day 9. Regular Expressions — cleaning & validating text data
+        Day 10. File Handling Part 1 — text, CSV basics
+        Day 11. File Handling Part 2 — JSON, XML, YAML
+
+Module 3: Python & Data
+
+        Day 12. Python & SQL — intro to sqlite3, queries from Python
+        Day 13. SQLAlchemy — connections to databases (hands-on)
+        Day 14. pandas Part 1 — Series, DataFrames, reading/writing data
+        Day 15. pandas Part 2 — filtering, sorting, selecting columns
+        Day 16. pandas Part 3 — groupby, aggregations, joins/merges
+
+Module 4: Data Engineering Workflows
+
+        Day 17. Data Cleaning & Transformation — handling nulls, deduplication, conversions
+        Day 18. Working with APIs — requests, GET/POST, parsing responses
+        Day 19. JSON Handling — reading, parsing, flattening nested JSON
+        Day 20. Date & Time Handling — datetime, formatting, timezones
+        Day 21. Error Handling & Logging — try/except, custom errors, logging module

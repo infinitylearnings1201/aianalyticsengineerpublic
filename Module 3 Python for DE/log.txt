@@ -1,0 +1,2 @@
+Data ingestion started.
+File validated successfully.

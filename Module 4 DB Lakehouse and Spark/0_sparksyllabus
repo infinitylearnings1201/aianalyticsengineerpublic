@@ -1,0 +1,76 @@
+Spark 4.0 for Data Engineers – 21 Article Topics
+
+A Foundation
+
+      1 Why Spark for Data Engineering?
+        From Hadoop to Spark 4.0 – why Spark became the engine of modern data pipelines.
+
+      2 Python Essentials for Spark (Variables, Loops, Functions)
+        A crash course in just enough Python for Spark programming.
+
+      3 From Pandas to Spark: First Steps
+        Comparing Python’s Pandas with Spark DataFrames.
+
+B Spark Fundamentals
+
+      4 Inside Spark 4.0: Architecture & SparkSession
+        Driver, Executors, Cluster Manager + creating your first SparkSession.
+
+      5. RDDs: The Roots of Spark
+         A gentle intro to RDDs and why DataFrames replaced them.
+
+      6. DataFrames 101: Creating and Exploring Data
+         How to build DataFrames from CSV/JSON/Parquet and inspect schemas.
+
+C. Core DataFrame Operations
+
+      7. Transformations in Spark: select, filter, withColumn
+        Writing your first transformations with Spark APIs.
+
+      8. Actions in Spark: show, collect, count
+        Understanding how Spark executes lazily and runs only on actions.
+
+      9. Aggregations, Grouping & Window Functions
+        Summarizing data efficiently with groupBy and advanced windowing.
+
+      10. Joins in Spark: Inner, Outer, Left, Right
+        Practical join operations and handling skewed joins.
+
+      11. Handling Missing Data in Spark
+        Working with nulls using na.drop, na.fill, na.replace.
+
+D. Advanced Transformations
+
+    12. Working with Dates & Timestamps
+        Built-in functions for time manipulation.
+
+    13. Strings, Arrays & Complex Types
+        Splitting, exploding, and cleaning text/array data.
+
+    14. UDFs and Pandas UDFs
+        Writing custom functions and performance considerations.
+
+    15. Partitioning, Bucketing & Writing Data
+        Controlling parallelism and efficient file outputs.
+
+E. Performance & Optimization
+
+    16. Spark Execution Model: DAGs, Stages, and Tasks
+        How Spark breaks down your job + using explain().
+
+    17. Caching & Persistence: Speeding up Reuse
+        When and how to use cache() and persist().
+
+    18. Shuffles & Optimizations (Broadcast Joins + AQE)
+        Why shuffles are expensive and how Spark 4.0 optimizes them.
+
+    19. Spark SQL: Blending SQL with DataFrame APIs
+        Registering temp views and running SQL queries.
+
+F. Engineering & Capstone
+
+    20. File Formats & Streaming Basics
+        Reading/writing CSV, JSON, Parquet, Delta + intro to Structured Streaming.
+
+    21. Capstone Project: End-to-End ETL with Spark 4.0
+        Building a full pipeline → raw → transform → aggregate → save as Delta.
